@@ -1,0 +1,4 @@
+com/customer/rewards/controller/CustomerRewardsControllerTest.class
+com/customer/rewards/repository/TransactionRepositoryTest.class
+com/customer/rewards/repository/CustomerInfoRepositoryTest.class
+com/customer/rewards/service/CustomerRewardsServiceImplTest.class

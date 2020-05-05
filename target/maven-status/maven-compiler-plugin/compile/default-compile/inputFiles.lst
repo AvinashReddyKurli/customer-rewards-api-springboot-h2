@@ -11,3 +11,4 @@
 /Users/avinashreddykurli/Documents/workspace-spring-tool-suite-4-4.6.1.RELEASE/customer-rewards-springboot/src/main/java/com/customer/rewards/service/CustomerRewardsServiceImpl.java
 /Users/avinashreddykurli/Documents/workspace-spring-tool-suite-4-4.6.1.RELEASE/customer-rewards-springboot/src/main/java/com/customer/rewards/repository/TransactionRepository.java
 /Users/avinashreddykurli/Documents/workspace-spring-tool-suite-4-4.6.1.RELEASE/customer-rewards-springboot/src/main/java/com/customer/rewards/service/CustomerRewardsService.java
+/Users/avinashreddykurli/Documents/workspace-spring-tool-suite-4-4.6.1.RELEASE/customer-rewards-springboot/src/main/java/com/cutomer/rewards/config/SwaggerConfig.java

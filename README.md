@@ -13,3 +13,5 @@ To run application follow below instructions:
 	password: password
 6. To see rest call response click on send button
 7. If user provide invalid username/password then service will return the 401-unauthorized error
+8. *** You can see all the endpoints at below swagger URL ***
+   http://localhost:8095/swagger-ui.html#/customer-rewards-controller
